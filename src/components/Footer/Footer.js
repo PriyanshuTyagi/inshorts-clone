@@ -34,7 +34,10 @@ const Footer = () => {
           {" "}
           <i className="fab fa-linkedin fa-2x"></i>{" "}
         </a>{" "}
-        <a href="" target="__blank">
+        <a
+          href="https://www.linkedin.com/in/priyanshu-tyagi-0505461b1"
+          target="__blank"
+        >
           {" "}
           <i className="fas fa-link fa-2x"></i>{" "}
         </a>{" "}
